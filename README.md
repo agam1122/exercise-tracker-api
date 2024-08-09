@@ -25,12 +25,12 @@ This repository contains a Python script that interacts with the Nutritionix and
 ### Installation
 
 1. Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/agam1122/exercise-tracker-api.git
     cd exercise-tracker-api
     ```
 2. Install the required libraries:
-    ```bash
+    ```
     pip install requests requests
     pip install requests python-dotenv
     ```
@@ -44,7 +44,7 @@ This repository contains a Python script that interacts with the Nutritionix and
 ### Usage
 
 1. Run the script:
-    ```bash
+    ```
     python exercise_tracker.py
     ```
     or use any IDE of your choice
